@@ -1,0 +1,26 @@
+,0
+0,Jaffna
+1,Kilinochchi
+2,Mullaitivu
+3,Mannar
+4,Vavuniya
+5,Anuradhapura
+6,Trincomalee
+7,Puttalam
+8,Polonnaruwa
+9,Kurunegala
+10,Matale
+11,Batticaloa
+12,Ampara
+13,Moneragala
+14,Hambantota
+15,Matara
+16,Galle
+17,Kalutara
+18,Colombo
+19,Gampaha
+20,Kegalle
+21,Kandy
+22,Nuwara Eliya
+23,Badulla
+24,Rathnapura
