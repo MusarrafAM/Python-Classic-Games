@@ -1,9 +1,11 @@
 # Python-Classic-Games
 
 # Space Invaders Game
-<p> Video </p>
+<p> Gameplay Video </p>
 
 https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/821023f8-51e7-4811-8ccb-df505e47a40b
+
+<p> ScreenShots </p>
 
 ![1](https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/f39f4da4-2bec-44e9-8da5-2d9ed6099da1)
 ![2](https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/be322207-bf60-4eb3-8b6a-50824bc16c6e)
@@ -13,10 +15,11 @@ https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/821023f8-51e
 
 
 # Breakout Game
-<p> Video </p>
+<p> Gameplay Video </p>
 
 https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/848505b2-8375-41f8-82d7-19889f0eedda
 
+<p> ScreenShots </p>
 
 ![1](https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/340a153f-fde7-4c9b-910c-16addc2c75b6)
 ![2](https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/e875f622-5f69-47f9-9d5b-569be3c4aef3)
@@ -25,9 +28,11 @@ https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/848505b2-837
 
 
 # Srilankan District Explorer Game
-<p> Video </p>
+<p> Gameplay Video </p>
 
 https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/9df84b0d-1068-4d1e-8bae-c2e99e76eeba
+
+<p> ScreenShots </p>
 
 ![1](https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/6dba2bb6-0032-4d3b-a313-1f4a60f43a99)
 ![2](https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/b3768d0f-062e-4c7b-8804-80ae8e1bc4e4)
@@ -37,9 +42,11 @@ https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/9df84b0d-106
 
 
 # Pong Game
-<p> Video </p>
+<p> Gameplay Video </p>
 
 https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/0407ebbc-d1f9-40ab-99b6-f48c10ec9645
+
+<p> ScreenShots </p>
 
 ![1](https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/5aa636fc-17ca-4a0f-9db0-0afdf7d920a8)
 ![2](https://github.com/MusarrafAM/Python-Classic-Games/assets/102628794/3e3c008e-9c39-4679-9264-30ffa0077a7b)
